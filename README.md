@@ -29,7 +29,7 @@ I am a Cyber Security Consultant from Istanbul, Turkey.
 
 - 🥇: Member of CCP
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koc-168462174/)
+- :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koc-168462174/)
 
 ---
 
