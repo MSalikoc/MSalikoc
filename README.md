@@ -38,5 +38,6 @@ I am a Cyber Security Consultant from Istanbul, Turkey.
 - [What is Entra ID Partner Tier2 Support Role](https://ali-koc.com/entra-id-partner-tier-2-support-rolu-nedir//)
 - [Using Live Response in Microsoft Defender for Endpoint](https://ali-koc.com/using-live-response-in-microsoft-defender-for-endpoint//)
 - [Take Action on Simulation – MDO Attack Simulation Training](https://ali-koc.com/take-action-on-simulation-mdo-attack-simulation-training//)
+- [World Password(less) Day ! – Peki ya Şifrelerimizden Kurtulsak !!](https://ali-koc.com/world-password-day-peki-ya-sifrelerimizden-kurtulsak//)
 - [And more...](ali-koc.com)
 <!-- BLOG-POST-LIST:END -->
