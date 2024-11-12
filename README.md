@@ -20,7 +20,6 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Cyber Security Consultant from Istanbul, Turkey.
 - :man_technologist: I work as a Senior Endpoint & Cloud Security Engineer at Cyberwise!
 
 - ✍️: Blogger
