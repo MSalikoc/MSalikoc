@@ -35,6 +35,9 @@
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [What is Entra ID Partner Tier2 Support Role](https://ali-koc.com/entra-id-partner-tier-2-support-rolu-nedir//)
+- https://medium.com/@m365alikoc/ata-intune-device-checker-tool-release-update-version-1-1-a0fba2bfc25f
+- https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-9185e3e887b8
+- https://medium.com/@m365alikoc/using-macos-firewall-with-intune-9feaa94f29b3
 - [Using Live Response in Microsoft Defender for Endpoint](https://ali-koc.com/using-live-response-in-microsoft-defender-for-endpoint//)
 - [Take Action on Simulation – MDO Attack Simulation Training](https://ali-koc.com/take-action-on-simulation-mdo-attack-simulation-training//)
 - [World Password(less) Day ! – Peki ya Şifrelerimizden Kurtulsak !!](https://ali-koc.com/world-password-day-peki-ya-sifrelerimizden-kurtulsak//)
