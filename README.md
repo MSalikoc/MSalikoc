@@ -26,7 +26,7 @@
 
 - 🔍: Interested in Microsoft Security Products
 
-- 🥇: Member of CCP
+- 🥇: Member of MSCCP
 
 - :mailbox: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ali-koc-168462174/)
 
