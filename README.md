@@ -39,6 +39,7 @@
 - https://medium.com/@m365alikoc/microsoft-defender-xdr-deception-capabilities-9185e3e887b8
 - https://medium.com/@m365alikoc/using-macos-firewall-with-intune-9feaa94f29b3
 - https://ali-koc.com/microsoft-ninja-egitimleri-shortlist/
+- https://ali-koc.com/enable-enhanced-phishing-protection/
 - [Using Live Response in Microsoft Defender for Endpoint](https://ali-koc.com/using-live-response-in-microsoft-defender-for-endpoint//)
 - [Take Action on Simulation – MDO Attack Simulation Training](https://ali-koc.com/take-action-on-simulation-mdo-attack-simulation-training//)
 - [World Password(less) Day ! – Peki ya Şifrelerimizden Kurtulsak !!](https://ali-koc.com/world-password-day-peki-ya-sifrelerimizden-kurtulsak//)
